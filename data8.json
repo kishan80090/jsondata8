@@ -1,0 +1,102 @@
+[
+    {
+        "ques_no": "1",
+        "question": "What is Flutter?",
+        "a": "A programming language",
+        "b": "A database system",
+        "c": "A UI toolkit by Google",
+        "d": "An operating system",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "2",
+        "question": "Which language is used to write Flutter apps?",
+        "a": "Java",
+        "b": "Dart",
+        "c": "Kotlin",
+        "d": "Swift",
+        "correct": "b",
+        "answer": "e"
+    },
+    {
+        "ques_no": "3",
+        "question": "Which company developed Flutter?",
+        "a": "Apple",
+        "b": "Facebook",
+        "c": "Google",
+        "d": "Microsoft",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "4",
+        "question": "Flutter is mainly used for developing:",
+        "a": "Websites only",
+        "b": "Android apps only",
+        "c": "Desktop apps only",
+        "d": "Cross-platform mobile apps",
+        "correct": "d",
+        "answer": "e"
+    },
+    {
+        "ques_no": "5",
+        "question": "What is a widget in Flutter?",
+        "a": "A type of database",
+        "b": "A small app",
+        "c": "A building block of UI",
+        "d": "A programming function",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "6",
+        "question": "Which method runs first in a Flutter app?",
+        "a": "build()",
+        "b": "main()",
+        "c": "runApp()",
+        "d": "start()",
+        "correct": "b",
+        "answer": "e"
+    },
+    {
+        "ques_no": "7",
+        "question": "Which widget is used to create scrollable content?",
+        "a": "Text",
+        "b": "Column",
+        "c": "ListView",
+        "d": "Container",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "8",
+        "question": "What does 'hot reload' mean in Flutter?",
+        "a": "Restarts the system",
+        "b": "Clears the memory",
+        "c": "Updates UI without restarting app",
+        "d": "Uninstalls the app",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "9",
+        "question": "Which of the following is a state management method?",
+        "a": "Provider",
+        "b": "StatelessWidget",
+        "c": "build()",
+        "d": "runApp()",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "10",
+        "question": "Which file is the entry point of a Flutter project?",
+        "a": "main.html",
+        "b": "home.dart",
+        "c": "app.dart",
+        "d": "main.dart",
+        "correct": "d",
+        "answer": "e"
+    }
+]
